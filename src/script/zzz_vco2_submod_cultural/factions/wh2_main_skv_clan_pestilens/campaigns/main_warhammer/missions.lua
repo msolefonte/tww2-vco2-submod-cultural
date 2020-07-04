@@ -15,7 +15,7 @@ local missions = {
 				objective
 				{
 					type RESEARCH_N_TECHS_OF_TYPE_X;
-					total 13;
+					total 39;
 				}
 				objective
 				{
