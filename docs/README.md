@@ -15,55 +15,55 @@ same race (Repanse of Wulfhart), the smaller tree has been used as base.
 
 * Own 30 provinces
 * Research 50 technologies
-* Maintain at least 51% untained across all owned provinces
+* Maintain at least 51% Untained across all owned provinces
 
 ### Dark Elves
 
 * Own 30 provinces
 * Research 43 technologies
-* Maintain at least 51% untained across all owned provinces
+* Maintain at least 51% Untained across all owned provinces
 
 ### Dark Elves (Cult of Pleasure)
 
 * Own 30 provinces
 * Research 43 technologies
-* Maintain at least 51% chaos corruption across all owned provinces
+* Maintain at least 51% Chaos Corruption across all owned provinces
 
 ### Dwarfs
 
 * Own 30 provinces
 * Research 60 technologies
-* Maintain at least 51% untained across all owned provinces
+* Maintain at least 51% Untained across all owned provinces
 
 ### Empire
 
 * Own 30 provinces
 * Research 35 technologies
-* Maintain at least 51% untained across all owned provinces
+* Maintain at least 51% Untained across all owned provinces
 
 ### Greenskins
 
 * Own 30 provinces
 * Research 34 technologies
-* Maintain at least 51% untained across all owned provinces
+* Maintain at least 51% Untained across all owned provinces
 
 ### High Elves
 
 * Own 30 provinces
 * Research 53 technologies
-* Maintain at least 51% untained across all owned provinces
+* Maintain at least 51% Untained across all owned provinces
 
 ### Lizardmen
 
 * Own 30 provinces
 * Research 46 technologies
-* Maintain at least 51% untained across all owned provinces
+* Maintain at least 51% Untained across all owned provinces
 
 ### Norsca
 
 * Own 30 provinces
 * Research 37 technologies
-* Maintain at least 51% chaos corruption across all owned provinces
+* Maintain at least 51% Chaos Corruption across all owned provinces
 
 ### Skaven
 
@@ -75,22 +75,22 @@ same race (Repanse of Wulfhart), the smaller tree has been used as base.
 
 * Own 30 provinces
 * Research 50 technologies
-* Maintain at least 51% TBD across all owned provinces
+* Maintain at least 51% Untained across all owned provinces
 
 ### Wood Elves
 
 * Own 30 provinces
 * Research 19 technologies
-* Maintain at least 51% untained across all owned provinces
+* Maintain at least 51% Untained across all owned provinces
 
 ### Vampire Coast
 
 * Own 30 provinces
 * Research 38 technologies
-* Maintain at least 51% TBD across all owned provinces
+* Maintain at least 51% Vampire Corruption across all owned provinces
 
 ### Vampire Counts
 
 * Own 30 provinces
 * Research 37 technologies
-* Maintain at least 51% TBD across all owned provinces
+* Maintain at least 51% Vampire Corruption across all owned provinces
