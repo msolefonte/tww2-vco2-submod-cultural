@@ -94,3 +94,22 @@ same race (Repanse of Wulfhart), the smaller tree has been used as base.
 * Own 30 provinces
 * Research 37 technologies
 * Maintain at least 51% Vampire Corruption across all owned provinces
+
+## Modded Races
+
+### Tilea, Estalia and The Border Princes
+
+_Cataph's The Southern Realms_
+
+* Own 30 provinces
+* Research 20 technologies
+* Maintain at least 51% Untained across all owned provinces
+
+### Kraka Drak
+
+_Cataph's Kraka Drak_
+
+* Own 30 provinces
+* Research 48 technologies
+* Maintain at least 51% Untained across all owned provinces
+
