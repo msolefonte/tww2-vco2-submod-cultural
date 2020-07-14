@@ -1,7 +1,7 @@
 [img]https://i.imgur.com/fVVaDCS.gif[/img]
 
 [h2]Introduction[/h2]
-This mod brings back the Cultural Victory to the Mortal Empires campaign. It can work as a standalone mod or together with their brothers the [url=#]Main Mod[/url], the [url=#]Economic Victory Submod[/url] and the [url=#]Military Victory Submod[/url].
+This mod brings back the Cultural Victory to the Mortal Empires campaign. It can work as a standalone mod or together with their brothers the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2165815189]Main Mod[/url], the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2165815285]Economic Victory Submod[/url] and the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2165815338]Military Victory Submod[/url].
 
 [h2]New Victory Conditions[/h2]
 The objectives are based on the following pattern: Own 30 provinces, research an 80% of your technology tree and maintain at least 51% of your religion in your owned provinces. In the case of different technology tree inside of the same race (Repanse of Wulfhart), the smaller tree has been used as base.
