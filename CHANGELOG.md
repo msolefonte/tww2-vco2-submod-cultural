@@ -7,3 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] Initial Commit - 07.14.2020
 
 - Initial commit
+    
+## [1.0.1] Patch Update - 5.12.2020
+
+- Add support for The Twisted & The Twilight DLC
